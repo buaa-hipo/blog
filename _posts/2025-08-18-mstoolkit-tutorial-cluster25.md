@@ -25,7 +25,7 @@ performance inefficiencies due to sub-optimal computation, communication and I/O
 we will provide hands-on exercises to acquaint the audience with the usage of 
 each profiler and show case the effectiveness of each profiler for guiding 
 performance optimization. The tools demonstrated in this tutorial have already 
-een open-sourced for public access ([MSToolkit](https://github.com/buaa-hipo/MSToolkit)).
+been open-sourced for public access ([MSToolkit](https://github.com/buaa-hipo/MSToolkit)).
 
 
 This tutorial is expected to provide the audiences with the background of performance analysis,
