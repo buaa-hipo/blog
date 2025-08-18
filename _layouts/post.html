@@ -49,7 +49,10 @@ layout: compress
                 1 min
               {% else %}
                 {{ words | divided_by:180 }} mins
-            {% endif %} read
+            {% endif %} read&nbsp;&middot;
+        </span>
+        <span>
+            <span id="busuanzi_value_page_pv"></span><span> views</span>
         </span>
       </p>
     </div>
@@ -112,6 +115,7 @@ layout: compress
 
   {% include footer.html %}
   {% include mathjax.html %}
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 
 </html>
