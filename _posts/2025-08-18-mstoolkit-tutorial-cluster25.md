@@ -63,8 +63,7 @@ the hands-on exercises right away. Note that the audiences shall install their o
 # Program
 
 Stage | Content | Presenters | Schedule
--------- | ----- | ----- | ----
-|:-:|:-|:-:|:-:|
+:-:|:-|:-:|:-:
 1 | Introduction of Performance Analysis and Profiling Tools in HPC | Hailong Yang | 9:30-10:00
 2 | Introduction of High Performance Cluster at CNIC | Ningming Nie,<br> Yuhang Hu | 10:00-10:10
 3 | Tutorial: Detecting Performance Variance on Large-Scale Heterogeneous Systems | Xin You | 10:10-11:00
