@@ -70,7 +70,7 @@ Stage | Content | Presenters | Schedule
 4 | Break |  | 11:00-11:30 
 5 | Tutorial: A Runtime Detection and Debugging Tool | Ningming Nie,<br> Yuhang Hu | 11:30-12:00
 6 | Tutorial: MPI Communication Performance Modeling Based on Supercomputer Network | Ziheng Wang | 12:00-12:30
-7 | Tutorial: Identifying parallel I/O performance bottleneck using IOP tool | Genshen Chu | 12:30-13:00
+7 | Tutorial: Identifying Parallel I/O Performance Bottleneck Using IOP Tool | Genshen Chu | 12:30-13:00
 
 ---
 
