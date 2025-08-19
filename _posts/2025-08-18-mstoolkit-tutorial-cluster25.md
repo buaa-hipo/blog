@@ -88,6 +88,9 @@ Stage | Content | Presenters | Schedule
 # Related Publications
 
 - You X, Xuan Z, Yang H, et al. [GVARP: Detecting performance variance on large-scale heterogeneous systems[C]](https://ieeexplore.ieee.org/abstract/document/10793232)//SC24: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2024: 1-16.
+- Xuan Z, You X, Feng T, et al. [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis[J]](https://dl.acm.org/doi/full/10.1145/3720544). ACM Transactions on Architecture and Code Optimization, 2025, 22(2): 1-26.
+- Xuan Z, Sun X, You X, et al. [Identifying Performance Inefficiencies of Parallel Program With Spatial and Temporal Trace Analysis[J]](https://ieeexplore.ieee.org/abstract/document/10982439). IEEE Transactions on Parallel and Distributed Systems, 2025.
+- Wang Z, Chen H, Cai W, et al. [C-Lop: Accurate contention-based modeling of MPI concurrent communication[J]](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000278). Parallel Computing, 2022, 111: 102925.
 
 ---
 
