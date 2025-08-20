@@ -79,7 +79,7 @@ Stage | Content | Presenters | Schedule
 - Hailong Yang, Beihang University
 - Xin You, Beihang University
 - Zhibo Xuan, Beihang University
-- Ningming Nie, Shunde Li, Computer Network Information Center, Chinese Academy of Science
+- Ningming Nie, Yuhang Hu, Computer Network Information Center, Chinese Academy of Science
 - Ziheng Wang, Xi'an Jiaotong University
 - Genshen Chu, University of Science and Technology Beijing 
 
