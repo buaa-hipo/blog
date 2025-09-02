@@ -65,7 +65,7 @@ the hands-on exercises right away. Note that the audiences shall install their o
 Stage | Content | Presenters | Schedule
 :-:|:-|:-:|:-:
 1 | Performance Engineering in HPC from A Tool Perspective | Hailong Yang | 9:30-10:00
-2 | Introduction of High Performance Cluster at CNIC | Ningming Nie,<br> Yuhang Hu | 10:00-10:10
+2 | [Introduction of High Performance Cluster at CNIC](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Cluster25-tutorial-CNIC.pdf) | Ningming Nie,<br> Yuhang Hu | 10:00-10:10
 3 | [Tutorial: Detecting Performance Variance on Large-Scale Heterogeneous Systems](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER25-Tutorial-GVARP-final.pdf) | Xin You | 10:10-11:00
 4 | Break |  | 11:00-11:30 
 5 | Tutorial: Runtime Performance Inefficiency Detection and Program Debugging | Ningming Nie,<br> Yuhang Hu | 11:30-12:00
