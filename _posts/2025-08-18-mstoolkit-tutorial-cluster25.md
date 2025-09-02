@@ -69,7 +69,7 @@ Stage | Content | Presenters | Schedule
 3 | [Tutorial: Detecting Performance Variance on Large-Scale Heterogeneous Systems](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER25-Tutorial-GVARP-final.pdf) | Xin You | 10:10-11:00
 4 | Break |  | 11:00-11:30 
 5 | [Tutorial: Runtime Performance Inefficiency Detection and Program Debugging](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Cluster25-tutorial-Vaddr(1).pdf) | Ningming Nie,<br> Yuhang Hu | 11:30-12:00
-6 | Tutorial: MPI Communication Performance Modeling | Ziheng Wang | 12:00-12:30
+6 | [Tutorial: MPI Communication Performance Modeling](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Cluster25-tutorial-H-Lop.pdf) | Ziheng Wang | 12:00-12:30
 7 | Tutorial: Identifying Parallel I/O Performance Bottleneck Using IOP Tool | Genshen Chu | 12:30-13:00
 
 ---
