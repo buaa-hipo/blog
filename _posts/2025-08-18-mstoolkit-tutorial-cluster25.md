@@ -66,7 +66,7 @@ Stage | Content | Presenters | Schedule
 :-:|:-|:-:|:-:
 1 | Performance Engineering in HPC from A Tool Perspective | Hailong Yang | 9:30-10:00
 2 | Introduction of High Performance Cluster at CNIC | Ningming Nie,<br> Yuhang Hu | 10:00-10:10
-3 | [Tutorial: Detecting Performance Variance on Large-Scale Heterogeneous Systems](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24) | Xin You | 10:10-11:00
+3 | [Tutorial: Detecting Performance Variance on Large-Scale Heterogeneous Systems](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER25-Tutorial-GVARP-final.pdf) | Xin You | 10:10-11:00
 4 | Break |  | 11:00-11:30 
 5 | Tutorial: Runtime Performance Inefficiency Detection and Program Debugging | Ningming Nie,<br> Yuhang Hu | 11:30-12:00
 6 | Tutorial: MPI Communication Performance Modeling | Ziheng Wang | 12:00-12:30
